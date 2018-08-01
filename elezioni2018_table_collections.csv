@@ -1,0 +1,6 @@
+"id","group_id","name","short_name","slug","volume","popularity","sentiment_positive","sentiment_neutral","sentiment_negative","short_url","show_order"
+"1","1","Destra","Destra","destra","1151","1464936.643691589","0","0","0",NULL,"1"
+"2","1","Centro Destra","C. Destra","centro-destra","11859","2242564.2987981886","0","0","0",NULL,"2"
+"3","1","Centro Sinistra","C. Sinistra","centro-sinistra","7578","2251098.204939668","0","0","0",NULL,"4"
+"4","1","Sinistra","Sinistra","sinistra","1906","2165325.5154288705","0","0","0",NULL,"5"
+"5","1","Movimento 5 Stelle","M5S","m5s","10424","2325365.878634723","0","0","0",NULL,"3"
